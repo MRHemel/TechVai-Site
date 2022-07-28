@@ -1,0 +1,9 @@
+/* .slider {
+    position: relative;
+    top: 200px;
+} */
+@media only screen and (max-width: 992px) {
+    .company {
+        visibility: collapse;
+    }
+}
